@@ -1,1 +1,1 @@
-# transbank-sdk-webpay-android-java-client-example
+# transbank-android-example
